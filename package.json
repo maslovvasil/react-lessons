@@ -2,7 +2,7 @@
   "name": "react-lessons",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-lessons/",
+  "homepage": "https://github.com/maslovvasil/react-lessons",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@testing-library/jest-dom": "^5.16.3",
