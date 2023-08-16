@@ -1,8 +1,12 @@
+import QuizForm from "./QuizForm/QuizForm";
+import StateExzample from "./StateExzample";
+
 export const App = () => {
   return (
-    <div
+    <>
+        <div
       style={{
-        height: '100vh',
+        height: '30vh',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
@@ -10,7 +14,12 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      React template
+      
     </div>
+    <StateExzample />
+    <QuizForm />
+    </>
+
   );
 };
